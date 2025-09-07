@@ -2,6 +2,8 @@
 
 A PowerShell script that converts CMap Tools concept map files (CXL format) into hierarchical OPML outlines, enabling seamless import into mind mapping and outlining software.
 
+> Want to know the story behind this tool? Read on to discover why it was developed: [When AI Becomes the Curator of Corporate Knowledge: From Transcription to "Vibe Coding"](https://www.linkedin.com/pulse/when-ai-becomes-curator-corporate-knowledge-from-vibe-pancani-ccfaf/)
+
 ## Overview
 
 This converter transforms complex concept maps created in [CMap Tools](https://cmap.ihmc.us/) into structured outlines compatible with popular mind mapping applications, note-taking tools, and outline processors.
